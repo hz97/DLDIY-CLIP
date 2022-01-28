@@ -58,7 +58,7 @@ CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a 
 | Eiffel Tower | 78% | 4% |
 | general | 2% | 76% |
 | Hotel des Invalides | 69% | 77% |
-| Louvre | 92% | 90 % |
+| Louvre | 92% | 90% |
 | Moulin Rouge | 87% | 87% |
 | Musee d'Orsay | 76% | 86% |
 | Notre Dame | 66% | 85% |
@@ -78,7 +78,7 @@ CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a 
 | Ashmolean | 56% | 82% |
 | Balliol | 29% | 38% |
 | Bodleian | 75% | 48% |
-| Christ Church | 7% | 54 % |
+| Christ Church | 7% | 54% |
 | Cornmarket | 52% | 20% |
 | Hertford | 2% | 32% |
 | Jesus | 4% | 35% |
@@ -86,7 +86,7 @@ CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a 
 | Magdalen | 10% | 60% |
 | New | 24% | 48% |
 | Oriel | 10% | 25% |
-| general | 12% | 66 % |
+| general | 12% | 66% |
 | Pitt Rivers | 67% | 77% |
 | Radcliffe Camera | 2% | 76% |
 | Trinity | 0% | 47% |
