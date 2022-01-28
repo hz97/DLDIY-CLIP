@@ -44,6 +44,9 @@ CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a 
 
 # Buildings Datasets ([Paris](https://www.robots.ox.ac.uk/~vgg/data/parisbuildings/), [Oxford](https://www.robots.ox.ac.uk/~vgg/data/oxbuildings/))
 
+![paris](https://www.robots.ox.ac.uk/~vgg/data/parisbuildings/out.jpg)
+![oxford](https://www.robots.ox.ac.uk/~vgg/data/oxbuildings/montage_small.jpg)
+
 ## Paris Buildings
 - 6412 images collected from Flickr for 11 different Paris landmarks + general views in Paris.
 
@@ -93,6 +96,8 @@ CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a 
 
 # [[Wikiart Dataset]](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset)
 
+![wikiart](https://production-media.paperswithcode.com/datasets/WikiArt-0000003290-f71d447c.jpg)
+
 - 52727 paintings from 195 different artists, each labeled with style, genre, and artist.
 
 ## Accuracy
@@ -116,4 +121,8 @@ CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a 
 -----------------
 # Conditional Generation on Quickdraw images
 
-I attempted to train a VAE on the Quickdraw images of `DomainNet`, using the encoder and decoder architectures of [DALL-E](https://github.com/openai/DALL-E). Unfortunately, I kept running into a `RuntimeError` saying `CUDA out of memory`.
+I attempted to train a VAE on the Quickdraw images of `DomainNet`, using the encoder and decoder architectures of [DALL·E](https://github.com/openai/DALL-E). Unfortunately, I kept running into a `RuntimeError` saying `CUDA out of memory`.
+
+- DALL·E is a neural network that creates images from text captions for a wide range of concepts expressible in natural language.
+
+![dall-e](https://cdn.openai.com/research-covers/dall-e/2x-no-mark.jpg)
