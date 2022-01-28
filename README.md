@@ -22,7 +22,7 @@ CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a 
 
 -----------------
 
-# [[DomainNet Dataset]](http://ai.bu.edu/M3SDA/)
+# [DomainNet Dataset](http://ai.bu.edu/M3SDA/)
 
 - Data on six domains: clipart, infograph, painting, quickdraw, real, sketch.
 - Introduced in *Moment Matching for Multi-Source Domain Adaptation*, CVPR 2019.
@@ -94,7 +94,7 @@ CLIP (Contrastive Language-Image Pre-Training) is a neural network trained on a 
 
 -----------------
 
-# [[Wikiart Dataset]](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset)
+# [Wikiart Dataset](https://github.com/cs-chan/ArtGAN/tree/master/WikiArt%20Dataset)
 
 ![wikiart](https://production-media.paperswithcode.com/datasets/WikiArt-0000003290-f71d447c.jpg)
 
